@@ -1,6 +1,6 @@
 ---
-layout: page 
-title: IM5 
+layout: default 
+title: Home
 ---
 
 Auth IM questions, 5th edition
