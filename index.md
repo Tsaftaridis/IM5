@@ -3,7 +3,7 @@
 Auth IM questions, 5th edition
 
 <ul>
-  {% for post in site.posts %}
+  {% for post in _posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
