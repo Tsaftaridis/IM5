@@ -3,5 +3,19 @@ layout: default
 title: Home
 ---
 
+<!DOCTYPE HTML> 
+<head>
 Auth IM questions, 5th edition
-
+</head> 
+<body>
+  <p> Hello, World! </p> 
+  <p> 
+    <ul>
+    {% for post in site.posts %}
+     <li>
+       <a href="{{ post.url }}">{{ post.title }}</a>
+     </li>
+   {% endfor %}
+  </ul>
+  </p>
+</body> 
