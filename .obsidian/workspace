@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "8bb12359d4eb878f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fa3ab705d796740",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2022-10-05-GI-bleed.md.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59b88174ba169d1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8a15201afb67a3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd7621f008b91bea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "24918535f09afade",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a8f08c9956bc1eaf",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "96aa230f16cc9c42",
+    "type": "split",
+    "children": [
+      {
+        "id": "7aced4dd834bb217",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "849db716ad6f09da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2022-10-05-GI-bleed.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dbcac3824a928a17",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2022-10-05-GI-bleed.md.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0889b3e15d0f55b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1657b03bcabe71fc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2022-10-05-GI-bleed.md.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5fa3ab705d796740",
+  "lastOpenFiles": [
+    "_drafts/202210051610 IM 561.md",
+    "_posts/2022-10-05-GI-bleed.md.md",
+    "_drafts/2021-04-17-1200-IM-923.md"
+  ]
+}
