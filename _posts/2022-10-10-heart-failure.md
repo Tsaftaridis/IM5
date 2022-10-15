@@ -30,3 +30,4 @@ categories: internal medicine
 * Quick Hit: Ace Inhibitors 
 * Quick Hit: ARBs and beta-blockers
 * For the appropriate management of ADHF, think LMNOP: Loop diuretics (furosemide), Modify medications, Nitrates, Oxygen if hypoxic, Position (with elevated upper body). 
+* 
